@@ -72,9 +72,12 @@ html {
     background-color: #fdfdfe;
     margin-top:10px;
     display: flex;
-    position: absolute;
+    position: relative;
     justify-content: center;
     margin-left: 190px;
 }
 
+.headsection{
+  border: solid 1px #de9ea5;
+}
 
