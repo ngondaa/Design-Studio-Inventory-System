@@ -79,5 +79,12 @@ html {
 
 .headsection{
   border: solid 1px #de9ea5;
+  padding: 15px;
+}
+h2{
+  font-family:"Varela Round", sans-serif;
+  display: flex;
+  font-size: xx-large;
+  
 }
 
