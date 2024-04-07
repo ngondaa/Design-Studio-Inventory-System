@@ -100,7 +100,7 @@ justify-content: center;
 align-items: center;
 }
 .bg1 {
-background-color: #ccc;
+background-color: #ffffff;
 }
 .bg2 {
 background-color: #ffffff;
@@ -114,8 +114,8 @@ font-size: 40px;
 line-height: 1.2;
 margin: 0;
 }
-.revealUp {
-opacity: 0;
-visibility: hidden;
+p{
+  color:#ffffff;
 }
+
 
